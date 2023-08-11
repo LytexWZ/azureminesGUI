@@ -3,7 +3,7 @@ A small updated GUi with automine, full fulbright - nofog, ore ESP and more!
 
 Link---->  loadstring(game:HttpGet("LINK"))()
 
-This GUI come with various features listed below with their proper description for you to understand
+This GUI come with various features listed below with their proper description for you to understand:
 
   Main:
   
