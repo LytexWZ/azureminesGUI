@@ -1,7 +1,9 @@
 # azureminesGUI
 A small updated GUi with automine, full fulbright - nofog, ore ESP and more!
 
-Link---->  loadstring(game:HttpGet("https://raw.githubusercontent.com/LytexWZ/azureminesGUI/main/code"))()
+Link---->  
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LytexWZ/azureminesGUI/main/code"))()
 
 
 ![image](https://github.com/LytexWZ/azureminesGUI/assets/72569213/13c45eb8-2029-458d-8c82-9a3a34040a37)
