@@ -1,5 +1,5 @@
 # azureminesGUI
-A small updated GUi with automine, full fulbright - nofog, ore ESP and more!
+A small updated GUI with automine, full fulbright - nofog, ore ESP and more!
 
 Copy this line into your executor:
 
