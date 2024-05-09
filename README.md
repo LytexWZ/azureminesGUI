@@ -5,10 +5,11 @@ Copy this line into your executor:
 
  ```loadstring(game:HttpGet("https://raw.githubusercontent.com/LytexWZ/azureminesGUI/main/code"))()```
 
+-
 ![image](https://github.com/LytexWZ/azureminesGUI/assets/72569213/13c45eb8-2029-458d-8c82-9a3a34040a37)
 
 
-This GUI come with various features listed below with their proper description for you to understand:
+This GUI comes with various features listed below, with their proper description for you to understand:
 
   Main:
   
@@ -55,10 +56,11 @@ This GUI come with various features listed below with their proper description f
       Waits for Ambrosia to spawn, then it teleports your character to automine it
       
 
-This GUI will recive more updates as I got more time to revive it. To use it just paste the loadstring line into your executor.
+This GUI will not recieve more updates because the game won't update anymore, the roblox anticheat killed scripting and there are 
+no more reasons for it to exist, if you encounter any bug feel free to open a commit or just open an issue and I will try to fix it.
 
 
 
 
 
-{Supported by: SYNAPSE, KRNL, VEGA X, ARCEUS X, FLUXUS}
+{Supported by: ~~SYNAPSE~~, ~~KRNL~~, VEGA X, ARCEUS X, FLUXUS} {Both executors are dead}
