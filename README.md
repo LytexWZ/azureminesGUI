@@ -9,6 +9,9 @@ Copy this line into your executor:
 ![image](https://github.com/LytexWZ/azureminesGUI/assets/72569213/13c45eb8-2029-458d-8c82-9a3a34040a37)
 
 
+New features coming soon, stay tuned and join our discord server for more updates! https://dsc.gg/kosmosisofficial
+
+
 This GUI comes with various features listed below, with their proper description for you to understand:
 
   Main:
