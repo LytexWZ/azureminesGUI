@@ -59,11 +59,8 @@ This GUI comes with various features listed below, with their proper description
       Waits for Ambrosia to spawn, then it teleports your character to automine it
       
 
-This GUI will not recieve more updates because the game won't update anymore, the roblox anticheat killed scripting and there are 
-no more reasons for it to exist, if you encounter any bug feel free to open a commit or just open an issue and I will try to fix it.
+This GUI will recieve more updates because the game will update soon, the roblox anticheat has a bypass and scripting is back! 
 
 
 
-
-
-{Supported by: ~~SYNAPSE~~, ~~KRNL~~, VEGA X, ARCEUS X, FLUXUS} {Both executors are dead}
+{Supported by: KRNL, AWP, Velocity, Vega X, Codex, and more!
