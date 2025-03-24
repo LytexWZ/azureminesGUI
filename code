@@ -161,7 +161,7 @@ end)
 Main:AddDropdown({
 	Name = "Select Ore",
 	Default = "1",
-	Options = {"Ambrosia", "Amethyst", "Antimatter", "Azure", "Baryte", "Boomite", "Coal", "Constellatium", "Copper", "Corium", "Darkmatter", "Diamond", "Dragonglass", "Dragonstone", "Emerald", "Firecrystal", "Frightstone", "Frostarium", "Garnet", "Gold", "Gingerbreadium", "Havium", "Illuminunium", "Iron", "Kappa", "Mithril", "Moonstone", "Newtanium", "Nightmarium", "Noobite", "Nullium", "Opal", "Orichalcum", "Painite", "Peppermintium", "Platinum", "Plutonium", "Pumpkinite", "Promethium", "Rainbonite", "Redmatter", "Ruby", "Sapphire", "Serendibite", "Shadow Metal", "Silver", "Sinistyte E", "Sinistyte L", "Sinistyte M", "Sinistyte S", "Solarium", "Soulstone", "Stellarite", "Stone", "Sulfur", "Symmetrium", "Twitchite", "Topaz", "Uranium", "Valhalum", "Yunium"},
+	Options = {"Ambrosia", "Amethyst", "Antimatter", "Azure", "Baryte", "Boomite", "Coal", "Constellatium", "Copper", "Corium", "Darkmatter", "Diamond", "Dragonglass", "Dragonstone", "Element V", "Emerald", "Firecrystal", "Frawstbyte", "Frightstone", "Frostarium", "Garnet", "Giftium", "Gingerbreadium", "Gold", "Illuminunium", "Iron", "Kappa", "Mithril", "Moonstone", "Newtonium", "Nightmarium", "Nihilium", "Noobite", "Opal", "Orichalcum", "Painite", "Peppermintium", "Platinum", "Plutonium", "Pumpkinite", "Promethium", "Rainbonite", "Redmatter", "Ruby", "Sapphire", "Serendibite", "Shadow Metal", "Silver", "Sinistyte E", "Sinistyte L", "Sinistyte M", "Sinistyte S", "Solarium", "Soulstone", "Stellarite", "Stone", "Sulfur", "Symmetrium", "Topaz", "Twitchite", "Unobtainium", "Uranium", "Valhalum", "Yunium"},
 	Callback = function(Value)
 		Ore = Value
 	end
